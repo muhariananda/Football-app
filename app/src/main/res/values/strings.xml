@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Football App</string>
+    <string name="league_name">League Name</string>
+    <string name="league">League</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Barcelona</string>
+    <string name="away">Real Madrid</string>
+    <string name="date">Sun, 12/12</string>
+    <string name="time">18.00</string>
+    <string name="score_home">1</string>
+    <string name="score_away">2</string>
+    <string name="goals">Goals</string>
+    <string name="detail_match">Detail Match</string>
+    <string name="error">Please check your connection</string>
+    <string name="detail">Detail</string>
+    <string name="last_match">Last match</string>
+    <string name="next_match">Next match</string>
+    <string name="standing">Standings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite">Favorite</string>
+    <string name="events">Events</string>
+    <string name="teams">Teams</string>
+    <string name="action_home">Home</string>
+
+    <string name="next">Next</string>
+    <string name="last">Last</string>
+    <string name="match_not_found">Match not Found</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no">No</string>
+    <string name="club">Club</string>
+    <string name="mp">MP</string>
+    <string name="d">D</string>
+    <string name="l">L</string>
+    <string name="gf">GF</string>
+    <string name="ga">GA</string>
+    <string name="gd">GD</string>
+    <string name="pts">Pts</string>
+    <string name="win">W</string>
+    <string name="separator">:</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2f3640</color>
+    <color name="colorPrimaryDark">#21262E</color>
+    <color name="colorAccent">#74b9ff</color>
+
+    <color name="colorBackgroundHome">#2f3640</color>
+    <color name="listBackground">#353b48</color>
+    <color name="grey">#ecf0f1</color>
+    <color name="TextBody">#2c3e50</color>
+    <color name="yellow">#fbc531</color>
+
+    <color name="transparentBg">#CF353b48</color>
+
+</resources>
